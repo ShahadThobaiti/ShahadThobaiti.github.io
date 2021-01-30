@@ -151,7 +151,7 @@ body {
 
 .timeline {
   position: relative;
-  width: 660px;
+  width: 860px;
   margin: 0 auto;
   margin-top: 50px;
 	margin-bottom: 50px;
@@ -194,14 +194,14 @@ body {
 
 .direction-l {
   position: relative;
-  width: 300px;
+  width: 200px;
   float: left;
   text-align: right;
 }
 
 .direction-r {
   position: relative;
-  width: 300px;
+  width: 200px;
   float: right;
 }
 
