@@ -319,7 +319,7 @@ body {
 @media screen and (max-width: 1960px) {
 
 .timeline {
- 	width: 100%;
+ 	width: 120%;
 	padding: 4em 0 1em 0;
 }
 
@@ -330,7 +330,7 @@ body {
 .direction-l,
 .direction-r {
 	float: none;
-	width: 100%;
+	width: 120%;
 
 	text-align: center;
 }
@@ -348,7 +348,7 @@ body {
 .direction-r .flag:before {
   position: absolute;
   top: -30px;
-	left: 50%;
+	left: 90%;
 	content: ' ';
 	display: block;
 	width: 12px;
@@ -364,7 +364,7 @@ body {
 .direction-r .flag:after {
 	content: "";
 	position: absolute;
-	left: 50%;
+	left: 90%;
 	top: -8px;
 	height: 0;
 	width: 0;
@@ -413,7 +413,7 @@ body {
 
 }
 
-@media screen and (min-width: 400px ?? max-width: 660px) {
+@media screen and (min-width: 400px ?? max-width: 960px) {
 
 .direction-l .desc,
 .direction-r .desc {
