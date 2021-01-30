@@ -48,8 +48,8 @@ canvas{
     font-family: 'Source Sans Pro';
     font-size: 1.3em;
     position: absolute;
-    width: 650px;
-    height: 370px;
+		width: 45%;
+    height: 55%;
     background: #eee;
 		z-index: 15;
 		top:0;
