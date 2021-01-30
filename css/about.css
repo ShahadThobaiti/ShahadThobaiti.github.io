@@ -194,14 +194,14 @@ body {
 
 .direction-l {
   position: relative;
-  width: 785px;
+  width: 790px;
   float: left;
   text-align: right;
 }
 
 .direction-r {
   position: relative;
-  width: 210;
+  width: 250;
   float: right;
 }
 
@@ -421,7 +421,7 @@ body {
 
 .direction-l .desc,
 .direction-r .desc {
-	margin: 2em 8em 0 4em;
+	margin: 1em 4em 0 4em;
 }
 
 }
