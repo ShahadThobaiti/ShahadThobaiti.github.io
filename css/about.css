@@ -242,7 +242,7 @@ body {
   width: 12px;
   height: 12px;
   margin-top: -10px;
-  background: #692428;
+  background: #fff;
   border-radius: 10px;
   border: 4px solid #692428;
   z-index: 10;
@@ -357,7 +357,7 @@ body {
 	margin-left: -9px;
 	background: #fff;
 	border-radius: 10px;
-	border: 4px solid rgb(255,80,80);
+	border: 4px solid #692428;
 	z-index: 10;
 }
 
