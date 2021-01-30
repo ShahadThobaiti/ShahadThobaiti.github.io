@@ -121,7 +121,7 @@ div {
 .left-div
 {
   display: inline-block;
-  max-width: 560px;
+  width: 40%;
   text-align: left;
   padding: 6px;
   border-radius: 3px;
@@ -135,7 +135,7 @@ div {
 .right-div
 {
   display: inline-block;
-  max-width: 355px;
+	width: 50%;
   text-align: justify;
   padding: 6px;
   border-radius: 3px;
@@ -200,9 +200,7 @@ div {
  background-color: #852f34;
 }
 img{
-	max-width:560px;
-  max-height:200px;
-  width: auto;
+	width:100%;
   height: auto;
 	position: :left;
 	opacity: 1;
