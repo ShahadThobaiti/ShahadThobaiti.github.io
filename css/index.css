@@ -125,9 +125,7 @@ div {
   display: inline-block;
   width: 40%;
   text-align: left;
-  padding: 6px;
   border-radius: 3px;
-  margin: 5px;
   vertical-align: top;
 
 }
@@ -139,9 +137,7 @@ div {
   display: inline-block;
 	width: 50%;
   text-align: justify;
-  padding: 6px;
   border-radius: 3px;
-  margin: 5px;
 
 
 }
