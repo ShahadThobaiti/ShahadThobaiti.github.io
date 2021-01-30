@@ -218,12 +218,21 @@ img{
   background-repeat: repeat;
 }
 @media screen and (max-width: 640px) {
-	 .panel
     .btn-ach,
     .btn-project,
     .btn-about {
         width: 100%;
+				height: auto;
+
         left: auto;
         right: auto;
     }
+
+@media screen and (max-width: 740px) {
+		    .panel {
+		        width: 100%;
+		        left: auto;
+		        right: auto;
+		    }
+
 }
