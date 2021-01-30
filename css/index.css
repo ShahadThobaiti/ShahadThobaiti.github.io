@@ -142,13 +142,12 @@ div {
   padding: 6px;
   border-radius: 3px;
   margin: 5px;
-	font: 300 16px/1.6 'Verdana' ;
 
 
 }
 .left-text, .right-text
 {
-  font: 300 14px/1.6 'Verdana' ;
+  font: 300 1.8vh/1.6 'Verdana' ;
 	color: #333;
 }
 .btn-about
@@ -159,7 +158,7 @@ div {
   padding: 6px;
 	border-radius: 5px;
   margin: 5px;
-	font: 300 14px/1.6 'Verdana';
+	font: 300 1.8vh/1.6 'Verdana' ;
 	text-align: center;
 	background-color: #692428;
 	text-align: center;
@@ -173,7 +172,7 @@ div {
   border-radius: 5px;
 	color: #FFFFFF;
   margin: 5px;
-	font: 300 14px/1.6 'Verdana' ;
+	font: 300 1.8vh/1.6 'Verdana' ;
 	background-color: #692428;
 	text-align: center;
 
@@ -186,7 +185,7 @@ div {
 	border-radius: 5px;
   margin: 5px;
 
-	font: 300 14px/1.6 'Verdana' ;
+	font: 300 1.8vh/1.6 'Verdana' ;
 	color: #FFFFFF;
 	background-color: #692428;
 	text-align: center;}
