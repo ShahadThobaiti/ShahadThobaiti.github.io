@@ -42,15 +42,14 @@ canvas{
   display:block;
   vertical-align:bottom;
 }
-@media screen  {
 
 
 .panel {
     font-family: 'Source Sans Pro';
     font-size: 1.3em;
     position: absolute;
-		width: 65%;
-    height: 65%;
+		width: 45%;
+    height: 55%;
     background: #eee;
 		z-index: 15;
 		top:0;
@@ -70,7 +69,7 @@ canvas{
 		display:flex;
 	flex-flow: row wrap;
 
-}}
+}
 @keyframes fadeInOpacity {
 	0% {
 		opacity: 0;
@@ -217,4 +216,14 @@ img{
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: repeat;
+}
+@media screen and (max-width: 640px) {
+	 .panel
+    .btn-ach,
+    .btn-project,
+    .btn-about {
+        width: 100%;
+        left: auto;
+        right: auto;
+    }
 }
