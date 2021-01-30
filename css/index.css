@@ -152,7 +152,7 @@ div {
 .btn-about
 {
 	position: left;
-	width: 160px;
+	width: 100%;
 	color: #FFFFFF;
   padding: 6px;
 	border-radius: 5px;
@@ -166,7 +166,7 @@ div {
 .btn-project
 {
 	position: center;
-	width: 160px;
+	width: 100%;
   padding: 6px;
   border-radius: 5px;
 	color: #FFFFFF;
@@ -180,7 +180,7 @@ div {
 {
 
 	position: right;
-  width: 160px;
+  width: 100%;
   padding: 6px;
 	border-radius: 5px;
   margin: 5px;
