@@ -59,7 +59,7 @@ canvas{
 		right: 0;
 		margin: auto;
     padding: 20px;
-    border-radius: 4px;
+    border-radius: 20px;
     box-sizing: border-box;
 		animation-name: fadeInOpacity;
 		animation-iteration-count: 1;
