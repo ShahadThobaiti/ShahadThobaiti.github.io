@@ -48,8 +48,8 @@ canvas{
     font-family: 'Verdana';
     font-size: 1.3em;
     position: absolute;
-    width: 85%;
     height: 85%;
+width:85;
     background: #eee;
 		z-index: 15;
 		top:0;
@@ -65,8 +65,9 @@ canvas{
 		animation-timing-function: ease-in;
 		animation-duration: 0.5s;
 		opacity: 0.9;
-
+overflow: scroll;
 }
+
 @keyframes fadeInOpacity {
 	0% {
 		opacity: 0;
@@ -103,6 +104,8 @@ div {
     padding: 0;
     border: 0;
     border-collapse: collapse;
+		overflow: auto;
+
 }
 
 
