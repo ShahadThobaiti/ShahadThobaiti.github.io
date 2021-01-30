@@ -48,7 +48,9 @@ canvas{
     font-family: 'Verdana';
     font-size: 1.3em;
     position: absolute;
-		width:75%;
+		width:85%;
+		height:85%;
+
     background: #eee;
 		z-index: 15;
 		top:0;
