@@ -48,7 +48,7 @@ canvas{
     font-family: 'Source Sans Pro';
     font-size: 1.3em;
     position: absolute;
-    width: 500px;
+    width: 650px;
     height: 370px;
     background: #eee;
 		opacity: 0.85;
@@ -64,8 +64,9 @@ canvas{
 
 }
 .buttons{
-	width: 460px;
+	width: 610px;
 	height: 50px;
+	padding-top: 10px;
 
 	display: flex;
  justify-content: space-around;
@@ -78,6 +79,7 @@ h1 {
     font-size: 1.5em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+		padding-bottom: 10px;
     font-weight: bold;
 		font-family:'Verdana' ;
 
@@ -113,23 +115,23 @@ div {
 
 }
 .half-line {
-  line-height: 1.3em;
+  line-height: 1.2em;
 }
 .right-div
 {
   display: inline-block;
-  max-width: 200px;
+  max-width: 355px;
   text-align: justify;
   padding: 6px;
   border-radius: 3px;
   margin: 5px;
-	font: 300 14px/1.6 'Verdana' ;
+	font: 300 16px/1.6 'Verdana' ;
 
 
 }
 .left-text, .right-text
 {
-  font: 300 11px/1.6 'Verdana' ;
+  font: 300 14px/1.6 'Verdana' ;
 	color: #333;
 }
 .btn-about
@@ -190,6 +192,7 @@ img{
 	opacity: 1;
 
 }
+
 #particles-js{
   width: 100%;
   height: 100%;
